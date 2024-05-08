@@ -20,7 +20,7 @@ Hi there! I'm 陈书彦, I'm the art director of the team, I'm also interested i
 
 ## About Me
 
-I'm a slow burner, and my MBTI type is INFJ. Many people think I'm aloof when they first meet me, but that's not true at all! Once you get to know me better, you'll unlock my second personality (just kidding).
+I'm a slow burner, and my MBTI is INFJ. Many people think I'm aloof when they first meet me, but that's not true at all! Once you get to know me better, you'll unlock my second personality (just kidding).
 
 ## My Skills
 
