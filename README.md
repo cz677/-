@@ -3,7 +3,7 @@ My Personal Website
 ---
 
 
-Name: [陈书彦]
+Name: 陈书彦
 ---
 
 
