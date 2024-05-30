@@ -1,0 +1,283 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  height: 957px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation {
+  background: #ffffff;
+  height: 128px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+._4-aol {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 500;
+  position: absolute;
+  left: 80px;
+  top: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  gap: var(--spacing-m, 48px);
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 80px;
+  top: 56px;
+}
+.button {
+  background: #000000;
+  border-radius: 8px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: var(
+    --button-shadow-box-shadow,
+    0px 1px 2px 0px rgba(0, 0, 0, 0.05)
+  );
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 16px);
+  line-height: var(--small-text-line-height, 150%);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hero-image {
+  background: linear-gradient(to left, #f7f7f7, #f7f7f7);
+  width: 400px;
+  height: 521px;
+  position: absolute;
+  right: 77px;
+  top: 143px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.headline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-s, 24px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 571px;
+  height: 680px;
+  position: absolute;
+  left: 79px;
+  top: 108px;
+}
+.katrina {
+  color: #000000;
+  text-align: left;
+  font-family: var(--title-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--title-font-size, 64px);
+  letter-spacing: var(--title-letter-spacing, -0.02em);
+  font-weight: var(--title-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+}
+.cao-infj {
+  color: #828282;
+  text-align: left;
+  font-family: var(--subheading-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--subheading-font-size, 24px);
+  line-height: var(--subheading-line-height, 150%);
+  font-weight: var(--subheading-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.katrina2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.paragraph {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  width: 1041px;
+  height: 666px;
+}
+.navigation-footer {
+  background: #ffffff;
+  height: 242px;
+  position: absolute;
+  right: 33px;
+  left: 0px;
+  top: 693px;
+  overflow: hidden;
+}
+.items2 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-s, 24px);
+  align-items: flex-end;
+  justify-content: center;
+  width: 187px;
+  position: absolute;
+  right: 585px;
+  top: 48px;
+}
+.wechat {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cz-67-csy {
+  color: #454545;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.items3 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-s, 24px);
+  align-items: flex-end;
+  justify-content: center;
+  width: 187px;
+  position: absolute;
+  right: 332px;
+  top: 48px;
+}
+.red {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.cz-67 {
+  color: #454545;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.items4 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-s, 24px);
+  align-items: flex-end;
+  justify-content: center;
+  width: 187px;
+  position: absolute;
+  right: 80px;
+  top: 48px;
+}
+.bilibili {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div {
+  color: #454545;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.social-media {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divider {
+  border-style: solid;
+  border-color: #e6e6e6;
+  border-width: 1px 0 0 0;
+  width: 1280px;
+  height: 0px;
+  position: absolute;
+  left: 80px;
+  top: 1px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
